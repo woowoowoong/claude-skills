@@ -1,0 +1,8 @@
+{
+  "extraKnownMarketplaces": {
+    "csw-skills": {
+      "source": { "source": "github", "repo": "woowoowoong/claude-skills" }
+    }
+  },
+  "enabledPlugins": { "korean-gov-doc@csw-skills": true }
+}
