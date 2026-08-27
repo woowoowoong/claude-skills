@@ -1,0 +1,9 @@
+# 빌드 산출물
+*.docx
+*.pdf
+!**/assets/*.docx
+ox/
+build.md
+pg/
+__pycache__/
+.DS_Store

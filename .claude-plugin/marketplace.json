@@ -1,0 +1,18 @@
+{
+  "name": "csw-skills",
+  "owner": {
+    "name": "창소프트아이앤아이"
+  },
+  "metadata": {
+    "description": "사내 공용 Claude 스킬 모음",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "korean-gov-doc",
+      "source": "./plugins/korean-gov-doc",
+      "description": "관공서·공공기관 제출용 한글 문서를 개조식 양식으로 작성하고 Word(.docx)로 빌드",
+      "version": "1.0.0"
+    }
+  ]
+}

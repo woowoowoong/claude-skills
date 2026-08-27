@@ -1,0 +1,9 @@
+{
+  "name": "korean-gov-doc",
+  "version": "1.0.0",
+  "description": "관공서·공공기관 제출용 한글 문서를 개조식 양식으로 작성하고 Word(.docx)로 빌드한다. 개조식 본문 규칙, 조판 수치, 공고문 양식(갑지·요약표) 재현, pandoc→OOXML 빌드 파이프라인을 포함.",
+  "author": {
+    "name": "창소프트아이앤아이"
+  },
+  "keywords": ["korean", "government", "document", "docx", "proposal", "관공서", "제안서"]
+}
